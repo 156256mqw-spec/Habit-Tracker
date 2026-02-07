@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "习惯打卡",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "习惯打卡",
+  "start_url": "/",
+  "theme_color": "#6366f1"
+}
